@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedSharp", "ZedSharp.csproj", "{C8DEC9FE-8595-4F36-9E4B-7CFDB885877F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedSharpTests", "..\ZedSharpTests\ZedSharpTests.csproj", "{654B8BA1-5599-4C47-A74E-7A0A9D1B09BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DEC9FE-8595-4F36-9E4B-7CFDB885877F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DEC9FE-8595-4F36-9E4B-7CFDB885877F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DEC9FE-8595-4F36-9E4B-7CFDB885877F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DEC9FE-8595-4F36-9E4B-7CFDB885877F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654B8BA1-5599-4C47-A74E-7A0A9D1B09BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654B8BA1-5599-4C47-A74E-7A0A9D1B09BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654B8BA1-5599-4C47-A74E-7A0A9D1B09BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654B8BA1-5599-4C47-A74E-7A0A9D1B09BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {518DF529-D7BD-417B-B045-79AAA615037D}
+	EndGlobalSection
+EndGlobal
