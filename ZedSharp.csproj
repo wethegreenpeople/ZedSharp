@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>John Singh</Authors>
+    <Company>URAQT</Company>
+    <Description>A C#/.NET Standard API Wrapper for Zed.run. Easily collect horse, race, or stable information.</Description>
+    <PackageProjectUrl>https://github.com/wethegreenpeople/ZedSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wethegreenpeople/ZedSharp</RepositoryUrl>
+    <PackageTags>Api, wrapper, zed, run, horse, stable, race, racing</PackageTags>
+    <PackageReleaseNotes>Init</PackageReleaseNotes>
+    <PackageId>ZedSharp_John_singh</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
