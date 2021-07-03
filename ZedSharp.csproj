@@ -12,6 +12,7 @@
     <PackageTags>Api, wrapper, zed, run, horse, stable, race, racing</PackageTags>
     <PackageReleaseNotes>Init</PackageReleaseNotes>
     <PackageId>ZedSharp_John_singh</PackageId>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
